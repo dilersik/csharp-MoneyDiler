@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{AC43BE32-210E-4302-9C4B-D39893DD0995}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MoneyDiler</RootNamespace>
+    <AssemblyName>MoneyDiler</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BOs\FinanceBO.cs" />
+    <Compile Include="DAOs\DBEntities.cs" />
+    <Compile Include="DAOs\FinanceCategoryDAO.cs" />
+    <Compile Include="DAOs\FinanceCategorySubDAO.cs" />
+    <Compile Include="DAOs\FinanceDAO.cs" />
+    <Compile Include="DAOs\PaymentFormDAO.cs" />
+    <Compile Include="DAOs\SingletonObjectContext.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\FinanceCategoryU.cs" />
+    <Compile Include="Utils\FinanceU.cs" />
+    <Compile Include="Utils\PaymentFormU.cs" />
+    <Compile Include="Utils\Util.cs" />
+    <Compile Include="Views\frmDefault.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmDefault.Designer.cs">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmFinance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmFinance.Designer.cs">
+      <DependentUpon>frmFinance.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmFinanceCategory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmFinanceCategory.Designer.cs">
+      <DependentUpon>frmFinanceCategory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmFinanceCategorySub.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmFinanceCategorySub.Designer.cs">
+      <DependentUpon>frmFinanceCategorySub.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmPaymentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmPaymentForm.Designer.cs">
+      <DependentUpon>frmPaymentForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\frmResumo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Views\frmResumo.Designer.cs">
+      <DependentUpon>frmResumo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="VOs\Finance.cs" />
+    <Compile Include="VOs\FinanceCategory.cs" />
+    <Compile Include="VOs\FinanceCategorySub.cs" />
+    <Compile Include="Utils\SystemU.cs" />
+    <Compile Include="VOs\PaymentForm.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmDefault.resx">
+      <DependentUpon>frmDefault.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmFinance.resx">
+      <DependentUpon>frmFinance.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmFinanceCategory.resx">
+      <DependentUpon>frmFinanceCategory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmFinanceCategorySub.resx">
+      <DependentUpon>frmFinanceCategorySub.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmPaymentForm.resx">
+      <DependentUpon>frmPaymentForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Views\frmResumo.resx">
+      <DependentUpon>frmResumo.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Views\img\btnGanhos_bg.png" />
+    <Content Include="Views\img\btnResumo_bg.png" />
+    <Content Include="Views\img\favicon.ico" />
+    <Content Include="Views\img\frmDefault_bg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

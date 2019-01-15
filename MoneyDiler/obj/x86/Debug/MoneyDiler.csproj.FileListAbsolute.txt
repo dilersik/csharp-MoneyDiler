@@ -1,0 +1,56 @@
+C:\Users\aluno\Desktop\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.pdb
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\bin\Debug\EntityFramework.xml
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.exe
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.pdb
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.exe
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.pdb
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.pdb
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\bin\Debug\EntityFramework.xml
+C:\Users\aluno\Desktop\workspace\MoneyDiler\MoneyDiler\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.exe
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.pdb
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.pdb
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\bin\Debug\EntityFramework.xml
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.exe
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.pdb
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.pdb
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.Properties.Resources.resources
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmDefault.resources
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admin\Desktop\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.Properties.Resources.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmDefault.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinanceCategory.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmPaymentForm.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.write.113.tlog
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinanceCategorySub.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinance.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.Properties.Resources.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmDefault.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinance.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinanceCategory.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmFinanceCategorySub.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmPaymentForm.resources
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\GenerateResource.write.113.tlog
+C:\Temp\Visual Studio 2010\Projects\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmResumo.resources
+D:\Documents\DILERMANDO\WorkSpace\C#\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.frmResumo.resources
+X:\MoneyDiler\MoneyDiler\bin\Debug\MoneyDiler.exe.config
+X:\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.exe
+X:\MoneyDiler\MoneyDiler\obj\x86\Debug\MoneyDiler.pdb
